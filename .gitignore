@@ -1,0 +1,14 @@
+# This .gitignore file is used to specify files and directories that Git should ignore.
+# The "venv/" entry ensures that the virtual environment folder is excluded from version control.
+# 
+# To ignore additional files or directories in the future, simply add their paths or patterns here.
+# For example:
+#   - To ignore all `.log` files: *.log
+#   - To ignore a specific file: filename.extension
+#   - To ignore a directory: directory_name/
+venv/
+
+
+# Ignore Python virtual environment directories
+# Ignore Python bytecode files
+.DS_Store
