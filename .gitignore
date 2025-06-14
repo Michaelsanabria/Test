@@ -12,3 +12,12 @@ venv/
 # Ignore Python virtual environment directories
 # Ignore Python bytecode files
 .DS_Store
+
+
+# Ignore Python cache files
+__pycache__/
+
+
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
